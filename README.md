@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 High-quality front-end development for web projects using current and efficient technologies.<br>👨‍💻 Collaboration on personal projects.<br>🛍️ Experience in developing e-commerce sites, including interface design and programming necessary functionalities.<br>💻 Proficiency in React, Bootstrap, CSS, SASS, HTML, and Redux to create innovative web solutions.<br>🚀 Experience in programming applications in Node.js and Express to create efficient, high-performance web solutions.<br>📚 Focus on continual improvement and ongoing learning to offer cutting-edge web solutions.
+🚀 High-quality front-end development for web projects using current and efficient technologies.<br>👨‍💻 Collaboration on personal projects.<br>🛍️ Experience in developing e-commerce sites, including interface design and programming necessary functionalities.<br>💻 Proficiency in React, NodeJs, Bootstrap, CSS, SASS, HTML, and Redux to create innovative web solutions.<br>🚀 Experience in programming applications in Node.js and Express to create efficient, high-performance web solutions.<br>📚 Focus on continual improvement and ongoing learning to offer cutting-edge web solutions.
 
 
 ## 🌐 Socials:
